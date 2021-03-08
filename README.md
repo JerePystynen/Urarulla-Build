@@ -1,4 +1,4 @@
-# unity-wheel-of-joy-build
+# DiMe - PeliKlaani Peliprojekti - Onnenpeli
 This is the build of the Wheel of Joy project.
 
 2 Versions:
