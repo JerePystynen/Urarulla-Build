@@ -1,10 +1,10 @@
-# DiMe - PeliKlaani Peliprojekti - Onnenpeli
-This is the build of the Wheel of Joy project.
+# DiMe - PeliKlaani Peliprojekti - Urarulla
 
-2 Versions:
-- Previous means the a version that was built before I got into this project.
-- Then there's going to be my version that I'm going to put here soon enough.
+This are the builds for the Wheel of Joy project.
 
-ADD SINGLEPLAYER & MULTIPLAYER VERSIONS FOR DIFFERENT USES. SINGLEPLAYER IS PLAYABLE AT ITCH.IO AND MULTIPLAYER IS SEPARATE.
+## 2 versiota:
+1. .exe-versio:
+- multiplayer version, meant for Olkkari.
 
-LINK TO THE PROJECT'S REPOSITORY
+2. WebGL-versio:
+- singleplayer version that is playable at [Itch.io]("https://dimepaja.itch.io/urarulla").
