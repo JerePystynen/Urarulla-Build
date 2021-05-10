@@ -7,4 +7,4 @@ This are the builds for the Wheel of Joy project.
 - multiplayer version, meant for Olkkari.
 
 2. WebGL-version:
-- singleplayer version that is playable at Itch.io: https://dimepaja.itch.io/urarulla.
+- singleplayer version that is also playable at Itch.io: https://dimepaja.itch.io/urarulla.
